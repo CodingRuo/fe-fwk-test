@@ -1,0 +1,6 @@
+.main {
+  flex: 1;
+  max-width: 800px;
+  margin: 6em auto 2em;
+  text-align: center;
+}
